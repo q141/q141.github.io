@@ -1,0 +1,141 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+    
+}
+
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu{
+    float: left;
+    padding-left: 432px
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+    
+}
+
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100%/auto 85% no-repeat, url(../img/%D1%84%D0%BE%D0%BD.png) center/cover no-repeat;
+    
+    
+    
+}
+
+.title__container{
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: 2c384a;
+    text-align: center;
+    
+}
+
+.title__container h1{
+    font-size: 60px;
+    font-weight: bold
+    
+}
+
+.title__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d
+        
+}
+
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin-top: 58px;
+    margin: 58px 14px 0px 14px;
+    
+}
+
+.second_dlock{
+    width: 100%;
+    height: 760px; 
+    background: #fcfdfd;
+    box-shadow: 0 -5px 30px -5px rgba(0, 0, 0, .5);
+    
+    background: 
+        url(../img/%D1%84%D0%BE%D1%82%D0%BA%D0%B0.png) 740px 225px no-repeat,url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 800px 170px no-repeat;
+    
+    
+    
+}
+
+.second_dlock h2{
+    padding: 110px 0px 0px 753px;
+    color: #263244;
+    font-size: 35px;
+    font-weight: bold
+}
+
+.second_dlock div{
+    font-size: 22px;
+     margin: 313px 350px;
+}
+
+.second_dlock button{
+     height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin-top: 58px;
+    margin: 30px 14px 0px 420px;
+}
+
+.nextBlock{
+    width: 100%;
+    height: 525px;
+    background:
+       url(../img/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B02.png) 794px 170px no-repeat,
+       url(../img/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BE%D1%84%D0%BE%D0%BD.png) 1180px 274px no-repeat,
+       url(../img/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0.png) 930px 274px no-repeat,
+       url(../img/%D0%B7%D0%BD%D0%B0%D0%BA.png) 680px 274px no-repeat,
+       url(../img/%D0%BD%D0%BE%D1%83%D1%82.png) 430px 274px no-repeat, url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png) center/cover no-repeat;
+}
+
+.nextBlock biv h2{
+    padding: 110px 0px 0px 720px;
+    color: #263244;
+    font-size: 35px;
+    font-weight: bold
+}
+
+.nextBlock h2{
+    padding: 165px 0px 0px 100px;
+    
+    color: #e98d12;
+    font-size: 20px;
+    font-weight: bold
+}
+
